@@ -345,7 +345,7 @@ class _HomePageState extends State<HomePage> {
                 GoogleFonts.poppins(fontSize: 14, fontWeight: FontWeight.w400),
           ),
           Text(
-            '\$112,550.00',
+            '\$212,550.00',
             style:
                 GoogleFonts.poppins(fontSize: 34, fontWeight: FontWeight.w700),
           ),
@@ -353,7 +353,7 @@ class _HomePageState extends State<HomePage> {
           RichText(
               text: TextSpan(children: [
             TextSpan(
-              text: '\$110,000.52',
+              text: '\$230,000.52',
               style: GoogleFonts.poppins(
                   color: Colors.black87,
                   fontSize: 14,
